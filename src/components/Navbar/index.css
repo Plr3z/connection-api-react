@@ -1,0 +1,15 @@
+.header-total{
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 85px;
+}
+
+.header-total input{
+    width: 250px;
+    height: 25px;
+    border-radius: 6px;
+    padding: 20px;
+}
